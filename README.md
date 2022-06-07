@@ -33,16 +33,20 @@ Se você seguiu os passos acima e fez a leitura do QRCode com o aplicativo da Ex
 Segue print das telas do aplicativo.
 
 Tela inicial:
+
 ![1](https://user-images.githubusercontent.com/43793955/172288145-6bb8fe8f-0150-45d9-bad8-a43a2f96dddb.jpg)
 
 
 Após clicar em "Atualizar", será mostrado a mensagem de aguarde pois a aplicação estará buscando sua localização atual e também como está o clima da sua região, caso o aplicativo não tenha permissão para usar sua localização, ele deverá solicita-lá nesse passo:
+
 ![2](https://user-images.githubusercontent.com/43793955/172288202-0354c112-6341-42df-a3ba-d905c1501968.jpg)
 
 Ao finalizar a busca o texto irá mudar trazendo os dados básicos do clima atual na sua região:
+
 ![3](https://user-images.githubusercontent.com/43793955/172288355-a4c32207-68ce-4575-82c5-196cef0851cd.jpg)
 
 Ao clicar novamente no botão de "Atualizar", o app deverá fazer uma nova busca:
+
 ![4](https://user-images.githubusercontent.com/43793955/172288516-90637b3e-b29a-44b0-aae6-b852d26ce766.jpg)
 
 
